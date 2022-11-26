@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'couponservice'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F69C087FC61441858497B3FF8557C4AC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D8DEB4CC76744365AB6B58526CA34859 }}
           package: '*.war'
