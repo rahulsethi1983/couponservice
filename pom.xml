@@ -43,7 +43,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>ROOT</finalName> 
+		<finalName>couponservice</finalName> 
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
